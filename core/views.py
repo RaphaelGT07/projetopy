@@ -54,9 +54,9 @@ def home(request):
     ]
 
     ranking = [
-        {"posicao": 1, "jogador": "MIGUEL", "jogo": "Nebula Run", "pontos": "18.420"},
-        {"posicao": 2, "jogador": "CODEX", "jogo": "Arena Code", "pontos": "16.900"},
-        {"posicao": 3, "jogador": "DJANGO", "jogo": "Pixel Quest", "pontos": "14.250"},
+        {"posicao": 1, "jogador": "RaphaXd", "jogo": "Nebula Run", "pontos": "18.420"},
+        {"posicao": 2, "jogador": "Zézão", "jogo": "Arena Code", "pontos": "16.900"},
+        {"posicao": 3, "jogador": "Junior", "jogo": "Pixel Quest", "pontos": "14.250"},
     ]
 
     passos = [
